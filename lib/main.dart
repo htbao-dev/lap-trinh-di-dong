@@ -3,8 +3,10 @@ import 'package:learn_flutter/bt_fetch_api/my_app.dart';
 import 'package:learn_flutter/form_basic.dart';
 import 'package:learn_flutter/material_basic.dart';
 
+import 'bt_fetch_api/app_carousel.dart';
+
 void main() {
-  runApp(MyApp6());
+  runApp(CarouselApp());
 }
 
 class MyApp extends StatelessWidget {
